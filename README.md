@@ -24,38 +24,8 @@ MongoDB for database management
 Git for version control
 Cloud services (e.g., AWS) for hosting
 PDF generation API for exporting resumes
-# Installation
-Clone the Repository
 
-bash
-Copy code
-git clone https://github.com/yourusername/resume-builder-website.git
-Navigate to the Project Directory
-
-bash
-Copy code
-cd resume-builder-website
-Install Dependencies
-
-bash
-Copy code
-npm install
-Set Up Environment Variables
-
-Create a .env file in the root directory.
-Add your MongoDB URI and other necessary environment variables.
-env
-Copy code
-MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
-Start the Development Server
-
-bash
-Copy code
-npm run dev
-The application should now be running on http://localhost:3000.
-
-Usage
+# Usage
 Register and Log In
 
 Create a new account or log in with existing credentials.
@@ -70,38 +40,6 @@ Preview and Export
 
 Preview your resume to ensure it looks perfect.
 Export your resume in your preferred format (PDF, Word).
-Contributing
-Contributions are welcome! Please follow these steps to contribute:
 
-Fork the Repository
-
-Click the "Fork" button at the top right of this page.
-Clone Your Fork
-
-bash
-Copy code
-git clone https://github.com/yourusername/resume-builder-website.git
-Create a Branch
-
-bash
-Copy code
-git checkout -b feature/your-feature-name
-Make Your Changes
-
-Implement your feature or bug fix.
-Commit and Push
-
-bash
-Copy code
-git add .
-git commit -m "Description of your changes"
-git push origin feature/your-feature-name
-Open a Pull Request
-
-Navigate to the original repository and click on the "New Pull Request" button.
-Provide a description of your changes and submit the pull request.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contact
-For any questions or feedback, please contact yourname@example.com.
