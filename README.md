@@ -41,5 +41,5 @@ Preview and Export
 Preview your resume to ensure it looks perfect.
 Export your resume in your preferred format (PDF, Word).
 
-License
+# License
 This project is licensed under the MIT License. See the LICENSE file for details.
