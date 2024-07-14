@@ -5,15 +5,15 @@ The Resume Builder Website project aims to develop an intuitive web application 
 The Resume Builder Website is an intuitive web application designed to help users create professional resumes with ease. The platform offers customizable templates, a user-friendly interface, and various export options, making it an essential tool for job seekers.
 
 # Features
-*User Registration and Login: Secure user authentication.
-*Template Selection: Choose from a variety of pre-designed resume templates.
+-User Registration and Login: Secure user authentication.-
+-Template Selection: Choose from a variety of pre-designed resume templates.
 *Content Customization: Add personal information, work experience, education, skills, and more.
 *Drag and Drop Interface: Easily organize resume sections.
 *Preview Mode: View your resume before exporting.
 *Export Options: Download resumes in PDF, Word, and other formats.
 # Technologies Used
 # Front-end
-HTML, CSS, JavaScript
+HTML,CSS,JavaScript
 React.js for building the user interface
 Bootstrap for responsive design
 # Back-end
