@@ -5,39 +5,37 @@ The Resume Builder Website project aims to develop an intuitive web application 
 The Resume Builder Website is an intuitive web application designed to help users create professional resumes with ease. The platform offers customizable templates, a user-friendly interface, and various export options, making it an essential tool for job seekers.
 
 # Features
--User Registration and Login: Secure user authentication.-
--Template Selection: Choose from a variety of pre-designed resume templates.
-*Content Customization: Add personal information, work experience, education, skills, and more.
-*Drag and Drop Interface: Easily organize resume sections.
-*Preview Mode: View your resume before exporting.
-*Export Options: Download resumes in PDF, Word, and other formats.
+- User Registration and Login: Secure user authentication.
+- Template Selection: Choose from a variety of pre-designed resume templates.
+- Content Customization: Add personal information, work experience, education, skills, and more.
+- Drag and Drop Interface: Easily organize resume sections.
+- Preview Mode: View your resume before exporting.
+- Export Options: Download resumes in PDF, Word, and other formats.
 # Technologies Used
 # Front-end
-HTML,CSS,JavaScript
-React.js for building the user interface
-Bootstrap for responsive design
+- HTML
+- CSS
+- JavaScript
+- React.js for building the user interface
+- Bootstrap for responsive design
 # Back-end
-Node.js
-Express.js for server-side operations
-MongoDB for database management
+- Node.js
+- Express.js for server-side operations
+- MongoDB for database management
 # Other Tools
-Git for version control
-Cloud services (e.g., AWS) for hosting
-PDF generation API for exporting resumes
+- Git for version control
+- Cloud services (e.g., AWS) for hosting
+- PDF generation API for exporting resumes
 
 # Usage
-Register and Log In
-
+- Register and Log In
 Create a new account or log in with existing credentials.
-Choose a Template
-
+- Choose a Template
 Browse and select a resume template that suits your needs.
-Customize Your Resume
-
+- Customize Your Resume
 Add personal details, work experience, education, skills, and more.
 Use the drag and drop interface to organize sections.
-Preview and Export
-
+- Preview and Export
 Preview your resume to ensure it looks perfect.
 Export your resume in your preferred format (PDF, Word).
 
