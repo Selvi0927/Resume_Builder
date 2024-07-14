@@ -28,14 +28,14 @@ The Resume Builder Website is an intuitive web application designed to help user
 - PDF generation API for exporting resumes
 
 # Usage
-- Register and Log In
+- Register and Log In:
 Create a new account or log in with existing credentials.
-- Choose a Template
+- Choose a Template:
 Browse and select a resume template that suits your needs.
-- Customize Your Resume
+- Customize Your Resume:
 Add personal details, work experience, education, skills, and more.
 Use the drag and drop interface to organize sections.
-- Preview and Export
+- Preview and Export:
 Preview your resume to ensure it looks perfect.
 Export your resume in your preferred format (PDF, Word).
 
