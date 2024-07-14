@@ -39,5 +39,8 @@ Use the drag and drop interface to organize sections.
 Preview your resume to ensure it looks perfect.
 Export your resume in your preferred format (PDF, Word).
 
+# Sample video of the website
+https://drive.google.com/file/d/1_8gu62EACO4nxjwqU4C3cDczD5nXpGDB/view?usp=sharing
+
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
